@@ -71,7 +71,7 @@ section {
 
 /* Hero Style Start*/
 .hero {
-    background-image: url(../images/hero-bg.jpg);
+    background-image: url(../images/flipped-hero-image.jpg);
     height: 600px;
     background-size: cover;
     background-position: center;
@@ -271,4 +271,15 @@ h3 {
 
 .contact-info a {
     color: #fce138;
+}
+
+.Start-Building {
+    float: left;
+}
+
+.Start-Building h2 {
+    font-weight: bold;
+    color: #fce138;
+    display: inline-block;
+
 }
