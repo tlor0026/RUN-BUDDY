@@ -21,7 +21,6 @@
   header h1 {
   /* this will be applied on any screen between 768px and 575px */
     text-align: center;
-    font-size:
     color: tomato;
   }
 }
@@ -30,7 +29,6 @@
 @media screen and (max-width: 425px) {
     /* this will be applied on any screen smaller than 575px */
   header h1 {
-  font-size: ;
   text-align: center
   }
 }
